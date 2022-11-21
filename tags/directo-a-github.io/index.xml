@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>directo a github.io on Filosofia para noobs</title>
+    <link>https://filosofiaparanoobs.github.io/tags/directo-a-github.io/</link>
+    <description>Recent content in directo a github.io on Filosofia para noobs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Nov 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://filosofiaparanoobs.github.io/tags/directo-a-github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuevo post directo de CMS a github.io</title>
+      <link>https://filosofiaparanoobs.github.io/post/nuevo-post-directo-de-cms-a-github.io/</link>
+      <pubDate>Sun, 20 Nov 2022 05:00:00 +0000</pubDate>
+      
+      <guid>https://filosofiaparanoobs.github.io/post/nuevo-post-directo-de-cms-a-github.io/</guid>
+      <description>Ojala funcione La verdad me interesa mucho que funcione
+le hice un workflow de github actions </description>
+    </item>
+    
+  </channel>
+</rss>

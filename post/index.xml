@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Filosofia para noobs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Nov 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://filosofiaparanoobs.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Nov 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://filosofiaparanoobs.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuevo post directo de CMS a github.io</title>
+      <link>https://filosofiaparanoobs.github.io/post/nuevo-post-directo-de-cms-a-github.io/</link>
+      <pubDate>Sun, 20 Nov 2022 05:00:00 +0000</pubDate>
+      
+      <guid>https://filosofiaparanoobs.github.io/post/nuevo-post-directo-de-cms-a-github.io/</guid>
+      <description>Ojala funcione La verdad me interesa mucho que funcione
+le hice un workflow de github actions </description>
+    </item>
+    
     <item>
       <title>Nuevo post de Giao</title>
       <link>https://filosofiaparanoobs.github.io/post/new-postgiao/</link>
