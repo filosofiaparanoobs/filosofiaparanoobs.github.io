@@ -26,14 +26,5 @@ le hice un workflow de github actions </description>
       <description>Este es un nuevo título Que increíble, por fín lo logré</description>
     </item>
     
-    <item>
-      <title>Friedriech Nietzsche</title>
-      <link>https://filosofiaparanoobs.github.io/post/friedriech-nietzsche/</link>
-      <pubDate>Tue, 15 Nov 2022 05:00:00 +0000</pubDate>
-      
-      <guid>https://filosofiaparanoobs.github.io/post/friedriech-nietzsche/</guid>
-      <description>Esto es una prueba Para saber si funcionó el logo</description>
-    </item>
-    
   </channel>
 </rss>
