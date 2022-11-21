@@ -1,12 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Filosofía para noobs | hugo-theme-pixyll on Filosofía para noobs | hugo-theme-pixyll </title>
+      <title>Filosofia para noobs on Filosofia para noobs </title>
       <generator uri="https://gohugo.io">Hugo</generator>
     <link>https://filosofiaparanoobs.github.io/</link>
     <language>en-us</language>
     
     
-    <updated>Wed, 30 Aug 2017 19:54:02 &#43;0000</updated>
+    <updated>Sat, 19 Nov 2022 05:00:00 UTC</updated>
+    
+    <item>
+      <title>Nuevo post de Giao</title>
+      <link>https://filosofiaparanoobs.github.io/post/new-postgiao/</link>
+      <pubDate>Sat, 19 Nov 2022 05:00:00 UTC</pubDate>
+      
+      <guid>https://filosofiaparanoobs.github.io/post/new-postgiao/</guid>
+      <description>Este es un nuevo título Que increíble, por fín lo logré</description>
+    </item>
     
     <item>
       <title>My Fourth post</title>
