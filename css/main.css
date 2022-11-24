@@ -13,8 +13,11 @@
 
 */
 
+
+
 body {
   font-family: "Ubuntu", "PT Serif", Georgia, "Times New Roman", serif;
+  font-display: swap
 }
 
 html, body {
